@@ -5,7 +5,7 @@ const app=Vue.createApp({
             lastName:'kandirou',
             email:'simo@gmail.com',
             gender:'male',
-            img:'https://www.myway.ma/img/myway-logo-1542064735.jpg',
+            img:'https://avatars.githubusercontent.com/u/105118673?v=4',
             phone:'0639872239'
         }
     },
