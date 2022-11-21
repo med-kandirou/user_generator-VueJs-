@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.male{
+    background-color: rgb(106, 106, 207);
+    border-color: rgb(106, 106, 207);
+}
+.female{
+    background-color: rgb(209, 85, 124);
+    border-color:rgb(209, 85, 124) ;
+}
+div{
+    margin-top: 10%;
+}
+img{
+    border: 2px solid black;
+    border-radius: 100px;
+    height: 120px;
+    width: 120px;
+}
+
+img , button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+button{
+    font-size: large;
+    padding: 10px;
+    color: white;
+}
