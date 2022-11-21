@@ -19,7 +19,7 @@ const app=Vue.createApp({
             this.gender=results[0].gender;
             this.img=results[0].picture.medium;
             this.phone=results[0].phone;
-        }
+        },
     }
 
 })
